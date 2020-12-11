@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using VehicleProject.Data1.Model;
-using VehicleProject.Persistence.Infastructure;
+using VehicleProject.Persistence;
 using VehicleProject.Service.Interface;
 
 namespace VehicleProject.Service.Implementation
